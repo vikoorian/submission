@@ -15,7 +15,7 @@ bike_hour_df = pd.read_csv("hour.csv", delimiter=",")
 # Menentukan Pertanyaan Bisnis
 st.title("Proyek Analisis Data: Bike Sharing Dataset")
 st.write("Nama          : Eldad Vikorian")
-st.write("Email         : m006d4ky2027@bangkit.academy")
+st.write("Email         : eldadrian05@gmail.com")
 st.write("ID Dicoding   : Eldad Vikorian")
 
 st.write("# Menentukan Pertanyaan Bisnis")
